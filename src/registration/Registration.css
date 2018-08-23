@@ -1,0 +1,14 @@
+.registration-container {
+	margin-top: 5em;
+	height: 17em;
+	grid-column-start: 2;
+	grid-column-end: 12;
+	background-color: white;
+}
+
+@media only screen and (min-width: 768px) {
+	.registration-container {
+		grid-column-start: 5;
+		grid-column-end: 9;
+	}
+}
