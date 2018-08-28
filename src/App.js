@@ -4,7 +4,8 @@ import Registration from './registration/Registration'
 import './App.css';
 import './common/Buttons.css';
 import './common/Grid.css';
-import './common/form/Form.css'
+import './common/form/Form.css';
+import './common/Notifications.css';
 
 class App extends Component {
   render() {

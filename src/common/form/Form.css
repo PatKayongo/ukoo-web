@@ -22,3 +22,8 @@ form .form-item input {
 form .action-buttons {
 	float: right;
 }
+
+form span.error {
+	font-size: 0.8em;
+	color:	#ED1C24;
+}

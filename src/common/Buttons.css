@@ -15,3 +15,8 @@ input[type=submit].button-primary {
 	background-color: 	#568203;
 	color: white;
 }
+
+input[type=submit].button-primary:disabled {
+	background-color: 	#a8af9a;
+}
+

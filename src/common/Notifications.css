@@ -1,0 +1,8 @@
+.notification.error {
+  background-color: #ED1C24;
+  color: white;
+  padding: 1em 0.3em;
+  border-radius: 0.2em;
+  opacity: 0.6;
+  font-size: 0.9em;
+}
